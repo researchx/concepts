@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Strategic Debating
 
-You can use the [editor on GitHub](https://github.com/researchx/concepts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this directory, we provide you with information about a new, muscular method for school debating.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The directory is structured into modules, that will allow you to progress at your own pace through the material.
 
-### Markdown
+### Topics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
