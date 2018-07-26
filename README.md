@@ -4,7 +4,7 @@ In this directory, you will find everything you need to know to become an excell
 
 The directory is structured into modules, that will allow you to progress at your own pace through the material.
 
-### Topics
+#### Topics
 -INTRODUCTION
 -
 
@@ -19,13 +19,7 @@ The directory is structured into modules, that will allow you to progress at you
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](computer.png)
-![alt text]
 
 
 
@@ -33,10 +27,7 @@ The directory is structured into modules, that will allow you to progress at you
 [About](About.md)```
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/researchx/concepts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact:  646520@tuta.io for personal assistance.
+Contact:  646520@tuta.io for more information.
 
 
