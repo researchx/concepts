@@ -4,27 +4,34 @@ In this directory, you will find everything you need to know to become an excell
 
 The directory is structured into modules, that will allow you to progress at your own pace through the material.
 
-#### Topics
--INTRODUCTION
--
+
+
+* Introduction
+* Terminology
+* Public Speaking Concepts
+* Argument
+* Fallacies
+* Critical Thinking
+* Research
+* History
+* Knowledge Base
+* Technology
+* OODA
+* Game Theory
+* Case Study
+* Conclusion
 
 
 
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 
 
 
 
 
-[About](About.md)```
+
 
 
 
