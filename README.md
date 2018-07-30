@@ -1,4 +1,4 @@
-## Welcome to Strategic Debate
+## Debate
 
 In this repository, you will find everything you need to know to become an excellent, modern debater. We provide you with information about a relatively new, military-style method of combat that can be applied to the debating scenario to win competitions with other debaters.
 
