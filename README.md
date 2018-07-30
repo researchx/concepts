@@ -1,14 +1,12 @@
 ## Welcome to Strategic Debate
 
-In this directory, you will find everything you need to know to become an excellent, modern debater. We provide you with information about a new, military-style method that you can use to win debate competitions.
+In this repository, you will find everything you need to know to become an excellent, modern debater. We provide you with information about a relatively new, military-style method of combat that can be applied to the debating scenario to win competitions with other debaters.
 
-The directory is structured into modules, that will allow you to progress at your own pace through the material.
-
-
+The repository is structured into modules allowing you to progress at your own pace through the material.
 
 * Introduction
 * Terminology
-* Public Speaking Concepts
+* Public Speaking 
 * Argument
 * Fallacies
 * Critical Thinking
@@ -16,10 +14,12 @@ The directory is structured into modules, that will allow you to progress at you
 * History
 * Knowledge Base
 * Technology
-* OODA
+* OODA Loop
 * Game Theory
 * Case Study
 * Conclusion
+* Glossary
+* Bibliography
 
 
 
